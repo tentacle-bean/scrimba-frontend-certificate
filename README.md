@@ -1,2 +1,2 @@
 # scrimba-frontend-certificate
-Certificate given for successfully completing the Frontend Developer Career Path on Scrimba
+<a href="https://scrimba.com/certificate/ub5R7buD/gfrontend">Certificate</a> given for successfully completing the Frontend Developer Career Path on Scrimba
